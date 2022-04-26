@@ -1,0 +1,7 @@
+c:\users\hp\documents\visual studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2010\Projects\calculator\calculator\bin\Debug\calculator.exe
+c:\users\hp\documents\visual studio 2010\Projects\calculator\calculator\bin\Debug\calculator.pdb
+c:\users\hp\documents\visual studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.exe
+c:\users\hp\documents\visual studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.pdb
+C:\Users\Hp\documents\visual studio 2010\Projects\calculator\calculator\obj\x86\Debug\practical6.Form1.resources
